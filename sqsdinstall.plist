@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.38.252/zyhxinstall.ipa</string>
+					<string>http://192.168.38.252/sqsdinstall.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.tmgp.zyhx</string>
+				<string>com.netmarble.stonemmocn</string>
 				<key>bundle-version</key>
-				<string>1.2.16</string>
+				<string>0.50.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>zyhx App download</string>
+				<string>sqsd App download</string>
 			</dict>
 		</dict>
 	</array>
