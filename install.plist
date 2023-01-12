@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http»򕟨ttpsÁ´½ӵĩpa΄¼þµؖ· -->
-     <string>http://192.168.38.252/skzq.ipa</string>
+     <string>http://www.install.com/skzq.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http»򕟨ttpsÁ´½ӵč¼Ƭµؖ·£¬¿ɖ±½ӊ¹Ӄapp¶ԓ¦µĩcon£¨·ֱ悊ûǿֆҪǳ£© -->
-     <string>http://192.168.38.252/app.png</string>
+     <string>http://www.install.com/app.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -31,7 +31,7 @@
      <true/>
      <key>url</key>
      <!-- http»򕟨ttpsÁ´½ӵĐ¡ͼƬµؖ·£¬¿ɖ±½ӊ¹Ӄapp¶ԓ¦µĩcon£¨·ֱ悊ûǿֆҪǳ£© -->
-     <string>http://192.168.38.252/app.png</string>
+     <string>http://www.install.com/app.png</string>
     </dict>
    </array>
    <key>metadata</key>
