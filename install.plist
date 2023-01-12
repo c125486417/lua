@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>items</key>
+ <array>
+  <dict>
+   <key>assets</key>
+   <array>
+    <dict>
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key>
+     <!-- http»򕟨ttpsÁ´½ӵĩpa΄¼þµؖ· -->
+     <string>http://192.168.38.252/skzq.ipa</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>full-size-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <!-- http»򕟨ttpsÁ´½ӵč¼Ƭµؖ·£¬¿ɖ±½ӊ¹Ӄapp¶ԓ¦µĩcon£¨·ֱ悊ûǿֆҪǳ£© -->
+     <string>http://192.168.38.252/app.png</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>display-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <!-- http»򕟨ttpsÁ´½ӵĐ¡ͼƬµؖ·£¬¿ɖ±½ӊ¹Ӄapp¶ԓ¦µĩcon£¨·ֱ悊ûǿֆҪǳ£© -->
+     <string>http://192.168.38.252/app.png</string>
+    </dict>
+   </array>
+   <key>metadata</key>
+   <dict>
+    <key>bundle-identifier</key>
+    <!-- BundleID£¬¾͊ǐ½¨appʱµİüû -->
+    <string>com.netease.pes</string>
+    <key>bundle-version</key>
+    <!-- °汾ºŠ-->
+    <string>2.01.1</string>
+    <key>kind</key>
+    <string>software</string>
+    <key>title</key>
+    <!-- °²װappʱµČኾЅϢ -->
+    <string>skzq App download</string>
+   </dict>
+  </dict>
+ </array>
+</dict>
+</plist>
